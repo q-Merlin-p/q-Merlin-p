@@ -1,32 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=24F785&width=435&lines=Hi+I+am+%40qqdelet+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Wayne</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 👀 Я цікавлюсь розробкою бекенду і створенням ботів для Telegram і Discord.
-- 🌱 Наразі я навчаюся програмувати на Python і іноді пишу скрипти та невеликі програми.
-- 💞️ Я шукаю можливості для співпраці в розробці проектів, пов'язаних з ботами та веб-додатками.
-- 📫 Зі мною можна зв'язатися через Discord: `qqdelet`.
-- 😄 Мої займенники: він.
-- ⚡ Цікавий факт: я люблю Раст, аніме і грати на гітарі, але думаю почати грати на барабанах.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/511207898807009295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="511207898807009295" height="30" width="40" /></a>
+</p>
 
-Я з України, мені 17 років. Віддаю перевагу мові Python, але хочу в майбутньому вивчити C# і C++.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
-
-- 👀 I’m interested in backend development and creating bots for Telegram and Discord.
-- 🌱 I’m currently learning Python and sometimes write scripts and small programs.
-- 💞️ I’m looking to collaborate on projects related to bots and web applications.
-- 📫 You can reach me on Discord: `qqdelet`.
-- 😄 My pronouns: he.
-- ⚡ Fun fact: I love Rust, anime, and playing guitar, but I'm thinking about starting to play the drums.
-
-I’m from Ukraine, and I'm 17 years old. I prefer Python but want to learn C# and C++ in the future.
-
----
-
-- 👀 Я интересуюсь разработкой бэкенда и созданием ботов для Telegram и Discord.
-- 🌱 В данный момент я учусь программировать на Python и иногда пишу скрипты и небольшие программы.
-- 💞️ Я ищу возможность сотрудничества в разработке проектов, связанных с ботами и веб-приложениями.
-- 📫 Со мной можно связаться через Discord: `qqdelet`.
-- 😄 Мои местоимения: он.
-- ⚡ Забавный факт: я люблю Раст, аниме и играть на гитаре, но думаю начать играть на барабанах.
-
-Я из Украины, мне 17 лет. Предпочитаю язык Python, но хочу в будущем выучить C# и C++.
