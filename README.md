@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&center=true&vCenter=true&width=500&height=50&lines=Привет+я+Wayne+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&duration=4000&center=true&vCenter=true&width=500&height=50&lines=Hi+I+am+Wayne+👋" alt="Typing SVG" />
 </h1>
+
 
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
