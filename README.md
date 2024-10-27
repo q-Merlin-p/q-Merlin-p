@@ -1,5 +1,5 @@
-# Привіт! Я @qqdelet 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I+am+@qqdelet+👋)](https://git.io/typing-svg)
+
 - 👀 Я цікавлюсь розробкою бекенду і створенням ботів для Telegram і Discord.
 - 🌱 Наразі я навчаюся програмувати на Python і іноді пишу скрипти та невеликі програми.
 - 💞️ Я шукаю можливості для співпраці в розробці проектів, пов'язаних з ботами та веб-додатками.
@@ -11,8 +11,6 @@
 
 ---
 
-# Hi! I’m @qqdelet 👋
-
 - 👀 I’m interested in backend development and creating bots for Telegram and Discord.
 - 🌱 I’m currently learning Python and sometimes write scripts and small programs.
 - 💞️ I’m looking to collaborate on projects related to bots and web applications.
@@ -23,8 +21,6 @@
 I’m from Ukraine, and I'm 17 years old. I prefer Python but want to learn C# and C++ in the future.
 
 ---
-
-# Привет! Я @qqdelet 👋
 
 - 👀 Я интересуюсь разработкой бэкенда и созданием ботов для Telegram и Discord.
 - 🌱 В данный момент я учусь программировать на Python и иногда пишу скрипты и небольшие программы.
