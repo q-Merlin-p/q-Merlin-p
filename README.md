@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=24F785&width=435&lines=Hi+I+am+%40qqdelet+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Wayne</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
