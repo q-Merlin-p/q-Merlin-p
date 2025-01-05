@@ -16,6 +16,5 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=qqdelet&theme=dark)](https://git.io/streak-stats)
