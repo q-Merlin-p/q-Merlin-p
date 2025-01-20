@@ -1,7 +1,5 @@
 Hi 👋 My name is Wayne
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 1.5em;">
-  <p style="margin: 0;">I am junior software engineer 🛠</p>
-</div>
+I am junior software engineer 🛠
 ======================
 
 <div align="center">
