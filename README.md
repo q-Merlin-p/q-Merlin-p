@@ -1,21 +1,19 @@
+Hi 👋 My name is Wayne
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 1.5em;">
+  <p style="margin: 0;">I am junior software engineer 🛠</p>
+</div>
+======================
+
 <div align="center">
   <img height="300" src="https://i.gifer.com/1abF.gif" />
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 1.5em;">
-  <p style="margin: 0;">I am junior software engineer 🛠</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
 
-Hi 👋 My name is Wayne
-======================
+
+
 
 Developer
 ---------
-
-* 🧠  I'm learning c++ | c#
 
 ### Skills
 
