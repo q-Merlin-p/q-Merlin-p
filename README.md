@@ -1,6 +1,6 @@
 Hi 👋 My name is Wayne
 ======================
-I am junior software engineer 🛠
+I am junior software engineer and full stack developer 🛠
 <div align="center">
   <img height="300" src="https://i.gifer.com/1abF.gif" />
 </div>
