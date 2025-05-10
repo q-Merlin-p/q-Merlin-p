@@ -18,9 +18,8 @@ I am junior software engineer and full stack developer 🛠
 
 <p align="left"> <a href="https://discord.com/users/cwasx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/q-Merlin-p" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
----
 
-## 📊 GitHub Activity 
+### 📊 GitHub Activity 
 <div>
   <a href="https://github.com/q-Merlin-p">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=q-Merlin-p&theme=codeSTACKr&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" style="margin-bottom: -10px;"/>
