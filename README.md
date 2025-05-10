@@ -1,4 +1,4 @@
-Hi 👋 My name is Wayne
+qq all 👋 My name is Wayne
 ======================
 I am junior software engineer and full stack developer 🛠
 <div align="center">
