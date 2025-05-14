@@ -8,36 +8,39 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-<table style="border:1px solid #444; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="vertical-align: top; padding: 10px; border:1px solid #444;">
-      <strong>🖥️ Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="30"/>
-      <br><br>
-      <strong>🌐 Web</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/>
-      <br><br>
-      <strong>⚙️ Frameworks</strong><br>
-      <img src="https://skillicons.dev/icons?i=vue,flask" height="30"/>
-      <br><br>
-      <strong>🗄️ Databases</strong><br>
-      <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
-      <br><br>
-      <strong>🛠️ Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/>
-    </td>
-    <td style="vertical-align: top; padding: 10px; border:1px solid #444;">
-      <strong>🤝 My Socials</strong><br>
-      <a href="https://discord.com/users/cwasx" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-        </picture>
-      </a>
-    </td>
+    <td><strong>🖥️ Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="30"/></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Web</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/></td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Frameworks</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,flask" height="30"/></td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="30"/></td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/></td>
   </tr>
 </table>
+
+---
+
+### 🤝 My Socials
+<a href="https://discord.com/users/cwasx" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </picture>
+</a>
 
 ---
 
