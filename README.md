@@ -1,4 +1,5 @@
 ## qq all 👋 My name is Merlin
+
 I am junior software engineer and full stack developer 🛠
 
 <div align="center">
@@ -7,41 +8,36 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-> ### 🖥️ Backend
-> <p>
->  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="40"/>
-> </p>
-> 
-> ### 🌐 Web
-> <p>
->   <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40"/>
-> </p>
-> 
-> ### ⚙️ Frameworks
-> <p>
->   <img src="https://skillicons.dev/icons?i=vue,flask" height="40"/>
-> </p>
-> 
-> ### 🗄️ Databases
-> <p>
->   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-> </p> 
-> 
-> ### 🛠️ Tools
-> <p>
->   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="40"/>
-> </p>
-
-### 🤝 My Socials
-<p align="left">
-  <a href="https://discord.com/users/cwasx" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
-  </a>
-</p>
+<table style="border:1px solid #444; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px; border:1px solid #444;">
+      <strong>🖥️ Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="30"/>
+      <br><br>
+      <strong>🌐 Web</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/>
+      <br><br>
+      <strong>⚙️ Frameworks</strong><br>
+      <img src="https://skillicons.dev/icons?i=vue,flask" height="30"/>
+      <br><br>
+      <strong>🗄️ Databases</strong><br>
+      <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+      <br><br>
+      <strong>🛠️ Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border:1px solid #444;">
+      <strong>🤝 My Socials</strong><br>
+      <a href="https://discord.com/users/cwasx" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
