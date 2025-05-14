@@ -8,34 +8,34 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-### Backend
+### 🖥️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="40"/>
 </p>
 
-### Scripting
+### 🌐 Web
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40"/>
 </p>
 
-### Frameworks
+### ⚙️ Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=vue,flask" height="40"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
 
-### Tools
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="40"/>
 </p>
 
 ---
 
-### My Socials
+### 🌐 My Socials
 <p>
   <a href="https://discord.com/users/cwasx" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
