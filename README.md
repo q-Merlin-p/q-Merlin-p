@@ -17,6 +17,8 @@ I am junior software engineer and full stack developer 🛠
     <td><strong>🌐 Web</strong></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/></td>
   </tr>
+
+  discord
   <tr>
     <td><strong>⚙️ Frameworks</strong></td>
     <td><img src="https://skillicons.dev/icons?i=vue,flask" height="30"/></td>
