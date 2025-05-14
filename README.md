@@ -33,7 +33,7 @@ I am junior software engineer and full stack developer 🛠
 
 
 ### 🤝 My Socials
-<a href="https://discord.com/users/cwasx" target="_blank">
+<a href="https://discord.com/users/devxzcd" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
@@ -41,6 +41,14 @@ I am junior software engineer and full stack developer 🛠
   </picture>
 </a>
 
+---
+
+## 💼 My Projects (Loading...)
+
+- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
+- 🤖 [FAM.GG](https://discord.gg/JbeX68YtGm) — Created using python, to help with organizational matters, as well as moderating discord servers.
+- 🧮 [MajesticHUB](https://github.com/HouseMiv/MajesticHUB) — Created using TS, this is a new site for Majestic RP administrations.
+  
 ---
 
 ### 📊 GitHub Activity 
