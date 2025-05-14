@@ -28,7 +28,7 @@ I am junior software engineer and full stack developer 🛠
   </tr>
   <tr>
     <td><strong>🛠️ Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,figma" height="30"/></td>
   </tr>
 </table>
 
