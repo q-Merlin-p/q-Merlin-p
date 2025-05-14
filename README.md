@@ -8,28 +8,43 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-<table>
-  <tr>
-    <td><strong>🖥️ Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Web</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Frameworks</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vue,flask" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <!-- Секция с проектами -->
+  <div style="flex: 1; margin-right: 20px;">
+    <ul>
+      <li>velox DM - Описание проекта 1</li>
+      <li>Fam.GG - Описание проекта 2</li>
+      <li>Проект 3 - Описание проекта 3</li>
+      <li>Проект 4 - Описание проекта 4</li>
+    </ul>
+  </div>
+
+  <!-- Секция с таблицей -->
+  <div style="flex: 1;">
+    <table>
+      <tr>
+        <td><strong>🖥️ Backend</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="30"/></td>
+      </tr>
+      <tr>
+        <td><strong>🌐 Web</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/></td>
+      </tr>
+      <tr>
+        <td><strong>⚙️ Frameworks</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=vue,flask" height="30"/></td>
+      </tr>
+      <tr>
+        <td><strong>🗄️ Databases</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=mysql" height="30"/></td>
+      </tr>
+      <tr>
+        <td><strong>🛠️ Tools</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="30"/></td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ### 🤝 My Socials
 <a href="https://discord.com/users/cwasx" target="_blank">
