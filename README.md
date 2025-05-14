@@ -59,3 +59,14 @@ I am junior software engineer and full stack developer 🛠
       <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-Merlin-p&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false&title_color=d3d3d3"/>
   </a>
 </div>
+
+> [!NOTE]
+> The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
+
+
+<div align="center">
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fq-Merlin-p">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fq-Merlin-p&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS"/>
+   </a>
+</div>
+<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align = "right" width="100">
