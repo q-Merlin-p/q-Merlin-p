@@ -33,9 +33,6 @@ I am junior software engineer and full stack developer 🛠
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="40"/>
 </p>
 
----
-
-
 ### 🤝 My Socials
 <p align="left">
   <a href="https://discord.com/users/cwasx" target="_blank">
@@ -47,8 +44,7 @@ I am junior software engineer and full stack developer 🛠
   </a>
 </p>
 
-
-
+---
 
 ### 📊 GitHub Activity 
 <div>
