@@ -1,12 +1,7 @@
 ### qq all 👋 My name is Merlin
 
 I am junior software engineer and full stack developer 🛠
-![image](https://i.gifer.com/3OwRz.gif)
-<div align="center">
-  <img height="300" src="https://i.gifer.com/3OwRz.gif" />
-</div>
 
----
 ### 🛠 My stack
 
 <table>
