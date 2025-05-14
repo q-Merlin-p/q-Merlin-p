@@ -1,5 +1,5 @@
-## qq all 👋 My name is Merlin
-### I am junior software engineer and full stack developer 🛠
+# qq all 👋 My name is Merlin
+# I am junior software engineer and full stack developer 🛠
 
 <div align="center">
   <img height="300" src="https://i.gifer.com/1abF.gif" />
