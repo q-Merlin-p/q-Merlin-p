@@ -12,8 +12,8 @@ I am junior software engineer and full stack developer 🛠
   <!-- Секция с проектами -->
   <div style="flex: 1; margin-right: 20px;">
     <ul>
-      <li>[Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.</li>
-      <li>Fam.GG - Development of a Discord Bot for your FAMQ</li>
+      [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
+      Fam.GG - Development of a Discord Bot for your FAMQ</li>
     </ul>
   </div>
 
