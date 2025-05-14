@@ -32,18 +32,6 @@ I am junior software engineer and full stack developer 🛠
   </tr>
 </table>
 
-
-### 🤝 My Socials
-<a href="https://discord.com/users/devxzcd" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </picture>
-</a>
-
----
-
 ## 💼 My Projects (Loading...)
 
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
