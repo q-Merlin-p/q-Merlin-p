@@ -1,5 +1,4 @@
 ## qq all 👋 My name is Merlin
-
 I am junior software engineer and full stack developer 🛠
 
 <div align="center">
