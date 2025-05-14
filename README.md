@@ -31,8 +31,6 @@ I am junior software engineer and full stack developer 🛠
   </tr>
 </table>
 
----
-
 ### 🤝 My Socials
 <a href="https://discord.com/users/cwasx" target="_blank">
   <picture>
