@@ -24,7 +24,7 @@ I am junior software engineer and full stack developer 🛠
   </tr>
   <tr>
     <td><strong>🗄️ Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite" height="30"/></td>
   </tr>
   <tr>
     <td><strong>🛠️ Tools</strong></td>
