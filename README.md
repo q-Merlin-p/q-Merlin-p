@@ -7,6 +7,7 @@ I am junior software engineer and full stack developer 🛠
 </div>
 
 ---
+### 🛠 My tech stack
 
 <table>
   <tr>
