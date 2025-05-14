@@ -27,15 +27,14 @@ I am junior software engineer and full stack developer 🛠
   </tr>
 </table>
 
-## 💼 My Projects (Loading...)
+### 💼 My Projects (Loading...)
 
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
 - 🤖 [FAM.GG](https://discord.gg/JbeX68YtGm) — Created using python, to help with organizational matters, as well as moderating discord servers.
 - 🧮 [MajesticHUB](https://github.com/HouseMiv/MajesticHUB) — Created using TS, this is a new site for Majestic RP administrations.
-  
----
 
 ### 📊 GitHub Activity 
+
 <div>
   <a href="https://github.com/q-Merlin-p">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=q-Merlin-p&theme=codeSTACKr&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3"/>
