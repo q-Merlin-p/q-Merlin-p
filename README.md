@@ -35,15 +35,6 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-### 🌐 My Socials
-<p>
-  <a href="https://discord.com/users/cwasx" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-  </a>
-</p>
-
-
----
 
 ### 🤝 My Socials
 <p align="left">
