@@ -10,7 +10,7 @@ I am junior software engineer and full stack developer 🛠
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Секция с проектами -->
-  <div style="margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <ul>
       <li>velox DM - Описание проекта 1</li>
       <li>Fam.GG - Описание проекта 2</li>
@@ -20,7 +20,7 @@ I am junior software engineer and full stack developer 🛠
   </div>
 
   <!-- Секция с таблицей -->
-  <div>
+  <div style="flex: 1;">
     <table>
       <tr>
         <td><strong>🖥️ Backend</strong></td>
