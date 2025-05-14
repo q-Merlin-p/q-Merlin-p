@@ -11,22 +11,22 @@ I am junior software engineer and full stack developer 🛠
 > <p>
 >  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" height="40"/>
 > </p>
-
+> 
 > ### 🌐 Web
 > <p>
 >   <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40"/>
 > </p>
-
+> 
 > ### ⚙️ Frameworks
 > <p>
 >   <img src="https://skillicons.dev/icons?i=vue,flask" height="40"/>
 > </p>
- 
+> 
 > ### 🗄️ Databases
 > <p>
 >   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 > </p> 
-
+> 
 > ### 🛠️ Tools
 > <p>
 >   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" height="40"/>
