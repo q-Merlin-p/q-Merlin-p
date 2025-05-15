@@ -3,7 +3,7 @@
 I am junior software engineer and full stack developer 🛠
 
 <div align="center">
-  <img height="300" src="./43b84b93e153858767d6b8760ae50648.gif" />
+  <img height="300" src="./67a64b8fde98fef2125735a27dee9396.jpg" />
 </div>
 
 ### 🛠 My stack
