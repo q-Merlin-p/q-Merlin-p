@@ -2,9 +2,7 @@
 
 I am junior software engineer and full stack developer 🛠
 
-<div align="center">
-  <img height="300",width="450", src="./67a64b8fde98fef2125735a27dee9396.jpg" />
-</div>
+---
 
 ### 🛠 My stack
 
@@ -50,6 +48,7 @@ I am junior software engineer and full stack developer 🛠
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
+---
 
 <div align="center">
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fq-Merlin-p">
