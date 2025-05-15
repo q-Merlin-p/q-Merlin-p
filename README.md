@@ -2,6 +2,10 @@
 
 I am junior software engineer and full stack developer 🛠
 
+<div align="center">
+  <img height="300" src="https://i.gifer.com/3OwRz.gif" />
+</div>
+
 ### 🛠 My stack
 
 <table>
