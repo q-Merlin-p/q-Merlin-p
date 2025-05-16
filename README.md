@@ -4,7 +4,7 @@ I am junior software engineer and full stack developer 🛠
 
 ---
 
-### 🛠 My stack
+### 🛠 My stack & tools
 
 <table>
   <tr>
