@@ -17,7 +17,7 @@ I am junior software engineer and full stack developer 🛠
   </tr>
   <tr>
     <td><strong>⚙️ Frameworks</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vue,react,flask" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,flask" height="30"/></td>
   </tr>
   <tr>
     <td><strong>🗄️ Databases</strong></td>
