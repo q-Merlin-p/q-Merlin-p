@@ -13,7 +13,7 @@ I am junior software engineer and full stack developer 🛠
   </tr>
   <tr>
     <td><strong>🌐 Web</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js" height="30"/></td>
   </tr>
   <tr>
     <td><strong>⚙️ Frameworks</strong></td>
