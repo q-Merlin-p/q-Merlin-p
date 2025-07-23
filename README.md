@@ -30,7 +30,7 @@ I am junior software engineer and full stack developer 🛠
 </table>
 
 ### 💼 My Projects (Loading...)
-
+> - 🌐 [My Site](https://my-site-one-taupe.vercel.app/) - (portfolio) | ts + tailwind css
 > - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
 > - 🤖 [FAM.GG](https://discord.gg/JbeX68YtGm) — Created using python, to help with organizational matters, as well as moderating discord servers.
 > - 🧮 [MajesticHUB](https://github.com/HouseMiv/MajesticHUB) — Created using TS, this is a new site for Majestic RP administrations.
